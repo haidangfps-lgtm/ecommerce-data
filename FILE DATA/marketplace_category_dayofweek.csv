@@ -1,0 +1,101 @@
+source_name,category_name,day_of_week,total_quantity_sold,total_income,avg_quantity_sold
+Lazada,Giày - dép,Friday,108401,5018730696,690
+Lazada,Giày - dép,Monday,18579,2012977364,137
+Lazada,Giày - dép,Saturday,5680,652889687,142
+Lazada,Giày - dép,Sunday,32564,3586244787,160
+Lazada,Giày - dép,Thursday,28218,2614213269,176
+Lazada,Giày - dép,Tuesday,32636,3554135910,157
+Lazada,Giày - dép,Wednesday,35816,3791803003,179
+Tiki,Giày - dép,Friday,53439,15303282266,20
+Tiki,Giày - dép,Monday,99084,25899078065,26
+Tiki,Giày - dép,Saturday,30270,6968947730,25
+Tiki,Giày - dép,Sunday,78268,19020065244,20
+Tiki,Giày - dép,Thursday,26564,6014485890,34
+Tiki,Giày - dép,Tuesday,12870,1419241842,81
+Tiki,Giày - dép,Wednesday,34160,5271989632,61
+Lazada,Laptop,Friday,9497,1.36E+11,59
+Lazada,Laptop,Monday,34824,4.37E+11,59
+Lazada,Laptop,Saturday,4651,68646525681,116
+Lazada,Laptop,Sunday,15262,2.13E+11,76
+Lazada,Laptop,Thursday,7348,82092900152,46
+Lazada,Laptop,Tuesday,11611,1.48E+11,68
+Lazada,Laptop,Wednesday,14165,2.04E+11,71
+Tiki,Laptop,Friday,235692,2.28E+11,118
+Tiki,Laptop,Monday,437982,4.32E+11,113
+Tiki,Laptop,Saturday,97320,1.08E+11,163
+Tiki,Laptop,Sunday,272204,2.91E+11,131
+Tiki,Laptop,Thursday,92122,94039494003,232
+Tiki,Laptop,Tuesday,36139,52856143200,457
+Tiki,Laptop,Wednesday,102988,1.36E+11,373
+Lazada,Máy tính bảng,Friday,8123,5499186825,99
+Lazada,Máy tính bảng,Monday,33432,31751361000,105
+Lazada,Máy tính bảng,Sunday,4376,6207462440,57
+Lazada,Máy tính bảng,Thursday,3175,9229545500,39
+Lazada,Máy tính bảng,Tuesday,8284,6763421020,111
+Lazada,Máy tính bảng,Wednesday,3132,6350589800,41
+Lazada,Máy ảnh,Friday,10102,10037579858,64
+Lazada,Máy ảnh,Monday,21060,1.78E+11,35
+Lazada,Máy ảnh,Saturday,2010,3193295631,50
+Lazada,Máy ảnh,Sunday,12274,50215309864,61
+Lazada,Máy ảnh,Thursday,6157,12362382840,38
+Lazada,Máy ảnh,Tuesday,10049,10249420115,57
+Lazada,Máy ảnh,Wednesday,8898,52643760569,45
+Tiki,Máy ảnh,Friday,123506,46674442910,182
+Tiki,Máy ảnh,Monday,127035,49175010083,119
+Tiki,Máy ảnh,Saturday,66195,24831640640,111
+Tiki,Máy ảnh,Sunday,194918,74767472696,96
+Tiki,Máy ảnh,Thursday,64500,24673723290,163
+Tiki,Máy ảnh,Tuesday,58855,21862066380,726
+Tiki,Máy ảnh,Wednesday,120236,44705477840,432
+Lazada,Mỹ phẩm,Friday,930893,2.42E+11,5854
+Lazada,Mỹ phẩm,Monday,3073028,1.01E+12,5262
+Lazada,Mỹ phẩm,Saturday,216721,1.73E+11,5418
+Lazada,Mỹ phẩm,Sunday,838128,2.42E+11,4211
+Lazada,Mỹ phẩm,Thursday,903458,2.61E+11,5682
+Lazada,Mỹ phẩm,Tuesday,921574,3.28E+11,4750
+Lazada,Mỹ phẩm,Wednesday,1207646,5.23E+11,6130
+Tiki,Mỹ phẩm,Friday,8484145,8.75E+11,4628
+Tiki,Mỹ phẩm,Monday,16542168,1.69E+12,4263
+Tiki,Mỹ phẩm,Saturday,3452045,3.68E+11,5772
+Tiki,Mỹ phẩm,Sunday,10763437,1.09E+12,5194
+Tiki,Mỹ phẩm,Thursday,3404750,3.53E+11,8533
+Tiki,Mỹ phẩm,Tuesday,2528403,2.15E+11,30100
+Tiki,Mỹ phẩm,Wednesday,5459109,4.90E+11,19496
+Lazada,Nội thất,Friday,53410,12387236322,335
+Lazada,Nội thất,Monday,332925,76343230658,563
+Lazada,Nội thất,Saturday,14207,1887701656,355
+Lazada,Nội thất,Sunday,85863,20568701802,308
+Lazada,Nội thất,Thursday,47729,9110906545,298
+Lazada,Nội thất,Tuesday,70673,13940135321,338
+Lazada,Nội thất,Wednesday,54457,10967045586,273
+Tiki,Nội thất,Friday,299677,85109022118,468
+Tiki,Nội thất,Monday,1297256,3.84E+11,335
+Tiki,Nội thất,Saturday,328705,1.06E+11,547
+Tiki,Nội thất,Sunday,554968,1.78E+11,554
+Tiki,Nội thất,Thursday,256166,80438842077,640
+Tiki,Nội thất,Tuesday,62461,25590817942,771
+Tiki,Nội thất,Wednesday,210220,69992010868,750
+Lazada,Phụ kiện,Friday,1307483,15932107392,9474
+Lazada,Phụ kiện,Monday,4296147,54540660582,8136
+Lazada,Phụ kiện,Saturday,248155,5190775559,6530
+Lazada,Phụ kiện,Sunday,914694,12107683232,4917
+Lazada,Phụ kiện,Thursday,1317699,17510281951,8843
+Lazada,Phụ kiện,Tuesday,1540855,17975867131,8109
+Lazada,Phụ kiện,Wednesday,1469162,16981780844,8072
+Tiki,Phụ kiện,Friday,59817,5887117263,100
+Tiki,Phụ kiện,Monday,103038,10155240092,97
+Tiki,Phụ kiện,Saturday,55816,5388094076,94
+Tiki,Phụ kiện,Sunday,155702,15755772297,101
+Tiki,Phụ kiện,Thursday,53941,5195871737,137
+Tiki,Phụ kiện,Tuesday,25490,2990149313,318
+Tiki,Phụ kiện,Wednesday,65153,7151515331,235
+Lazada,Phụ kiện số,Friday,11614,915651382,97
+Lazada,Phụ kiện số,Monday,96120,5354503252,203
+Lazada,Phụ kiện số,Sunday,22280,1296320346,190
+Lazada,Phụ kiện số,Thursday,12418,1373029951,109
+Lazada,Phụ kiện số,Tuesday,22318,1350078740,160
+Lazada,Phụ kiện số,Wednesday,7511,441661104,63
+Lazada,Phụ kiện tết,Friday,63729,10679329710,544
+Lazada,Phụ kiện tết,Monday,297792,25785983448,555
+Lazada,Phụ kiện tết,Sunday,67514,6604565519,577
+Lazada,Phụ kiện tết,Thursday,48691,6630191795,409

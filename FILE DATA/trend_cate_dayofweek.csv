@@ -1,0 +1,101 @@
+category_name,day_of_week,total_quantity_sold,total_income,avg_quantity_sold
+Giày - dép,Friday,161840,20322012962,58
+Giày - dép,Monday,117663,27912055429,30
+Giày - dép,Saturday,35950,7621837417,29
+Giày - dép,Sunday,110832,22606310031,27
+Giày - dép,Thursday,54782,8628699159,58
+Giày - dép,Tuesday,45506,4973377752,124
+Giày - dép,Wednesday,69976,9063792635,92
+Laptop,Friday,245189,3.64E+11,114
+Laptop,Monday,472806,8.69E+11,106
+Laptop,Saturday,101971,1.76E+11,160
+Laptop,Sunday,287466,5.03E+11,126
+Laptop,Thursday,99470,1.76E+11,179
+Laptop,Tuesday,47750,2.01E+11,192
+Laptop,Wednesday,117153,3.40E+11,246
+Máy tính bảng,Friday,8123,5499186825,99
+Máy tính bảng,Monday,33432,31751361000,105
+Máy tính bảng,Sunday,4376,6207462440,57
+Máy tính bảng,Thursday,3175,9229545500,39
+Máy tính bảng,Tuesday,8284,6763421020,111
+Máy tính bảng,Wednesday,3132,6350589800,41
+Máy ảnh,Friday,133608,56712022768,160
+Máy ảnh,Monday,148095,2.28E+11,89
+Máy ảnh,Saturday,68205,28024936271,107
+Máy ảnh,Sunday,207192,1.25E+11,93
+Máy ảnh,Thursday,70657,37036106130,126
+Máy ảnh,Tuesday,68904,32111486495,270
+Máy ảnh,Wednesday,129134,97349238409,271
+Mỹ phẩm,Friday,9415038,1.12E+12,4726
+Mỹ phẩm,Monday,19615196,2.71E+12,4394
+Mỹ phẩm,Saturday,3668766,5.41E+11,5750
+Mỹ phẩm,Sunday,11601565,1.33E+12,5108
+Mỹ phẩm,Thursday,4308208,6.14E+11,7720
+Mỹ phẩm,Tuesday,3449977,5.43E+11,12409
+Mỹ phẩm,Wednesday,6666755,1.01E+12,13976
+Nội thất,Friday,353087,97496258440,441
+Nội thất,Monday,1630181,4.61E+11,365
+Nội thất,Saturday,342912,1.08E+11,535
+Nội thất,Sunday,640831,1.99E+11,501
+Nội thất,Thursday,303895,89549748622,542
+Nội thất,Tuesday,133134,39530953263,459
+Nội thất,Wednesday,264677,80959056454,552
+Phụ kiện,Friday,1367300,21819224655,1870
+Phụ kiện,Monday,4399185,64695900674,2779
+Phụ kiện,Saturday,303971,10578869635,481
+Phụ kiện,Sunday,1070396,27863455529,619
+Phụ kiện,Thursday,1371640,22706153688,2530
+Phụ kiện,Tuesday,1566345,20966016444,5801
+Phụ kiện,Wednesday,1534315,24133296175,3342
+Phụ kiện số,Friday,11614,915651382,97
+Phụ kiện số,Monday,96120,5354503252,203
+Phụ kiện số,Sunday,22280,1296320346,190
+Phụ kiện số,Thursday,12418,1373029951,109
+Phụ kiện số,Tuesday,22318,1350078740,160
+Phụ kiện số,Wednesday,7511,441661104,63
+Phụ kiện tết,Friday,63729,10679329710,544
+Phụ kiện tết,Monday,297792,25785983448,555
+Phụ kiện tết,Sunday,67514,6604565519,577
+Phụ kiện tết,Thursday,48691,6630191795,409
+Phụ kiện tết,Tuesday,59641,6249493573,387
+Phụ kiện tết,Wednesday,64295,6365161565,549
+Sách,Friday,2755039,3.34E+11,2872
+Sách,Monday,9147769,1.11E+12,2040
+Sách,Saturday,1690340,2.01E+11,2645
+Sách,Sunday,5274091,6.47E+11,2300
+Sách,Thursday,1469893,1.73E+11,2629
+Sách,Tuesday,553654,60255637429,2205
+Sách,Wednesday,1529839,1.78E+11,3193
+Thiết bị kỹ thuật số,Friday,3076,579310934,29
+Thiết bị kỹ thuật số,Monday,33156,5212472900,84
+Thiết bị kỹ thuật số,Sunday,4203,902046180,40
+Thiết bị kỹ thuật số,Thursday,4615,1041665793,49
+Thiết bị kỹ thuật số,Tuesday,8885,1473625577,75
+Thiết bị kỹ thuật số,Wednesday,6838,1677134169,63
+Thiết bị kỹ thuật số - Phụ kiện số,Friday,450199,1.21E+11,220
+Thiết bị kỹ thuật số - Phụ kiện số,Monday,926857,2.48E+11,231
+Thiết bị kỹ thuật số - Phụ kiện số,Saturday,209290,52439178823,327
+Thiết bị kỹ thuật số - Phụ kiện số,Sunday,610879,1.59E+11,283
+Thiết bị kỹ thuật số - Phụ kiện số,Thursday,173466,47288623603,381
+Thiết bị kỹ thuật số - Phụ kiện số,Tuesday,114188,30695464655,713
+Thiết bị kỹ thuật số - Phụ kiện số,Wednesday,266447,77002156577,724
+Thời trang nam,Friday,415167,51660170598,196
+Thời trang nam,Monday,1657444,2.02E+11,379
+Thời trang nam,Saturday,163314,20398829400,259
+Thời trang nam,Sunday,690365,88910087437,310
+Thời trang nam,Thursday,299792,30912665054,547
+Thời trang nam,Tuesday,225494,25916446634,863
+Thời trang nam,Wednesday,310887,37126281992,651
+Thời trang nữ,Friday,879971,28825255626,411
+Thời trang nữ,Monday,1977476,59832264389,445
+Thời trang nữ,Saturday,340786,11640515377,533
+Thời trang nữ,Sunday,1013592,34146864513,447
+Thời trang nữ,Thursday,785769,19303473361,1431
+Thời trang nữ,Tuesday,661024,13396974425,2421
+Thời trang nữ,Wednesday,916030,24768940793,1924
+Điện gia dụng,Friday,863388,6.75E+11,638
+Điện gia dụng,Monday,1810345,1.39E+12,407
+Điện gia dụng,Saturday,400295,3.32E+11,627
+Điện gia dụng,Sunday,1090916,9.54E+11,584
+Điện gia dụng,Thursday,468136,3.26E+11,845
+Điện gia dụng,Tuesday,278359,2.76E+11,1066
